@@ -23,9 +23,9 @@ Halo! Nama gue **[Nama Lengkap atau Panggilan]**. Gue adalah seorang **[Profesi 
 
 ### 📊 Statistik GitHub
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ikhsan012&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-Ikhsan012&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
