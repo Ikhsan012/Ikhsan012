@@ -1,17 +1,12 @@
 ### Hi, semuanya! 👋
 
-Halo! Nama gue **[Nama Lengkap atau Panggilan]**. Gue adalah seorang **[Profesi atau Bidang Minat, misal: Backend Developer atau Full-stack Enthusiast]** yang lagi asyik ngoprek di dunia teknologi. Passion gue di dunia coding itu nggak cuma nulis kode, tapi juga **[minat lain, misal: belajar arsitektur sistem baru, atau ngebantu komunitas open-source]**.
+Halo! Nama gue **Muh.Ikhsan.Ainul**. Gue adalah seorang **Developer (Lebih Fokus Di Backend)** yang lagi asyik ngoprek di dunia teknologi. Passion gue di dunia coding itu nggak cuma nulis kode, tapi juga **Belajar Networking, Cloud Services, Dan Elektronika**.
 
 ---
 
 ### 💻 Tentang Gue
 
-- 🔭 Sekarang lagi kerja di **[Nama Perusahaan atau status lo, misal: sebagai Software Engineer di PT. Maju Mundur]**.
-- 🌱 Gue lagi belajar **[teknologi baru, misal: Go, Rust, atau Kubernetes]**.
-- 👯 Pengen banget kolaborasi di proyek yang berhubungan sama **[minat lo, misal: Web3, Machine Learning, atau data science]**.
-- 💬 Lo bisa tanya-tanya gue soal **[topik yang lo kuasai, misal: JavaScript, Docker, database management, atau networking]**.
-- 📫 Cara paling oke buat kontak gue adalah via **[link LinkedIn, Twitter, atau email]**.
-- ⚡ Fun fact: **[fakta unik tentang lo, misal: "Gue bisa ngoding sambil dengerin musik metal"]**.
+- 🌱 Gue lagi belajar **JavaScript Dan Python**.
 
 ---
 
