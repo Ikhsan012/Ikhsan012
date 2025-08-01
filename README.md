@@ -17,7 +17,7 @@ Halo! Nama gue **[Nama Lengkap atau Panggilan]**. Gue adalah seorang **[Profesi 
 
 ### 🛠️ Teknologi & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=python,vue,js,firebase,emailjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,vue,python,firebase,azure)](https://skillicons.dev)
 
 ---
 
