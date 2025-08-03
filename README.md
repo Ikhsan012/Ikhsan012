@@ -12,7 +12,7 @@ Halo! Nama gue **Muh.Ikhsan.Ainul**. Gue adalah seorang **Developer (Lebih Fokus
 
 ### 🛠️ Teknologi & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,vue,python,firebase,azure)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,vue,python,firebase,azure,heroku,vercel,fedora)](https://skillicons.dev)
 
 ---
 
