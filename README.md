@@ -6,7 +6,7 @@
 # Hey 👋 What's Up? I'm Muh. Ikhsan Ainul
 
 <p>
-  <b>Student | SysAdmin | Vibe Coder</b> <br>
+  <b>Student | Vibe Coder</b> <br>
   <i>"Saya malas buat UI/UX, jadi saya pecut EyAi :v"</i>
 </p>
 
