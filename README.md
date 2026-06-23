@@ -25,7 +25,7 @@
 
 <p align="center">
   <!-- Semua icon di-unifikasi pakai skillicons biar rapi -->
-  <img src="https://skillicons.dev/icons?i=linux,debian,android,astro,supabase,js,cloudflare,vue&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=linux,debian,astro,supabase,js,cloudflare,vue,python&theme=dark" alt="Tech Stack" />
 </p>
 
 <br>
